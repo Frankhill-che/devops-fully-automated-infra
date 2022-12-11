@@ -2,6 +2,7 @@
 Fully automated and secured Terraform infra pipeline
 
 Testing the webhook to be sure the integrations are working as expected and trigger the pipeline upon a commit
+Thank you prof Wansi for your dedication to this class
 
 ## CICD Infra setup
 1) ###### GitHub setup
